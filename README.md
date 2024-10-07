@@ -1,3 +1,6 @@
 # SwiftUICapabilities
 
-Demo project to study and test SwiftUI capabilities.
+Collection of Mini SwiftUI Projects to showcase its' capabilities.
+
+1.) POS System
+2.) 
