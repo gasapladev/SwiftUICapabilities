@@ -11,7 +11,7 @@ import SwiftUI
 struct POSSystemApp: App {
     var body: some Scene {
         WindowGroup {
-            PosView()
+            ContentView()
         }
     }
 }
